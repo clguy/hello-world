@@ -1,2 +1,3 @@
 # hello-world
-Starting my first GitHub repo
+
+Enthusiastic Software Engineer, Computer Programmer, Database Administrator, and Application Systems Developer with 13+ years of professional IT experience providing technical assistance and support related to hardware, software, and computer systems. Recent college graduate with the eagerness to enhance programming skills as well as to gain knowledge of multiple software applications to evolve into a more knowledgeable developer. The ability to work in a fast-paced environment and adequately accomplish assigned tasks following company standards, policies and procedures. Possess strong commitment to team environment dynamics with the ability to contribute and follow leadership directives.
